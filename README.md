@@ -26,38 +26,32 @@ And finally, maintaining your version number`:
 Happy Pawning!
 -->
 
+## Starting engine
+![image1](https://i.ibb.co/1rT8j9x/sa-mp-006.png)
+## Showing menu
+![image2](https://i.ibb.co/XDnyW7M/sa-mp-007.png)
+![image3](https://i.ibb.co/hmD9n8d/sa-mp-008.png)
+## Opening doors and other stuff
+![image4](https://i.ibb.co/8zJ7Vfj/sa-mp-009.png)
+## Changing speed unit
+![image5](https://i.ibb.co/g6ZBWsV/sa-mp-010.png)
+
 ## Installation
 
 Simply install to your project:
 
 ```bash
-sampctl package install emmett-white/samp-advanced-speedo
+sampctl install emmett-white/samp-advanced-speedo
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <samp-advanced-speedo>
+#include <speedometer>
 ```
-
-## Usage
-
-<!--
-Write your code documentation or examples here. If your library is documented in
-the source code, direct users there. If not, list your API and describe it well
-in this section. If your library is passive and has no API, simply omit this
-section.
--->
-
-## Testing
-
-<!--
-Depending on whether your package is tested via in-game "demo tests" or
-y_testing unit-tests, you should indicate to readers what to expect below here.
--->
 
 To test, simply run the package:
 
 ```bash
-sampctl package run
+sampctl run
 ```
