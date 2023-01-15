@@ -2,6 +2,8 @@
 
 [![sampctl](https://img.shields.io/badge/sampctl-samp--advanced--speedo-2f2f2f.svg?style=for-the-badge)](https://github.com/emmett-white/samp-advanced-speedo)
 
+## Not finished!
+
 <!--
 Short description of your library, why it's useful, some examples, pictures or
 videos. Link to your forum release thread too.
